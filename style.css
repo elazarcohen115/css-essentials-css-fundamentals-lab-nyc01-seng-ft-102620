@@ -28,4 +28,5 @@ section {
 #details div {
   float: left;
   background: red;
+  text-align: center;
 }
